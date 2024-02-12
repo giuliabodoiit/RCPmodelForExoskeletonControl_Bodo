@@ -1,0 +1,10 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:undefined="https://boxy-svg.com">
+ <g transform="matrix(1, 0, 0, 1, 327.270477, 171.316971)">
+  <title>Layer 1</title>
+  <g id="svg_2" transform="matrix(1, 0, 0, 1, 70.4073, 36.0061)"/>
+  <path class="a" d="m-266.51596,-168.2161l0,57.03l-57.029,0l0,-57.03l57.029,0m4.074,-4.074l-65.177,0l0,65.178l65.177,0l0,-65.178z" fill="#abd3f6" id="svg_1"/>
+  <ellipse fill=" rgb(90, 168, 243)" stroke=" rgb(90, 168, 243)" cx="-294.33323" cy="-139.44282" id="svg_12" rx="27.098" ry="27.098"/>
+  <path id="svg_3" stroke=" rgb(12, 111, 255)" fill=" rgb(12, 111, 255)" fill-rule=" nonzero"  d="m-295.12238,-139.63654m-28.096,0a28.096,28.602 0 1 0 56.192,0a28.096,28.602 0 1 0 -56.192,0zm28.096,0m-25.005,0a25.005,25.456 0 0 1 50.01,0a25.005,25.456 0 0 1 -50.01,0z"/>
+ </g>
+
+</svg>
